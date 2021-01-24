@@ -4,13 +4,20 @@
 # @Email : 292022420@qq.com
 # @Project : springcloud_demo
 项目介绍：
-config-center   配置中心git本地配置文件
+config-center   配置中心git本地配置文件 
+
 springcloud-config-server 配置中心服务
+
 springcloud-eureka-server 注册中心服务
+
 springcloud-eureka-server-zuul 网关服务
+
 springcloud-service-consumer 消费者服务resttemplate方式的服务
+
 springcloud-service-feign 消费者-feign方式的服务
+
 springcloud-service-provider01 提供者服务1
+
 springcloud-service-provider02 提供者服务2
 
 

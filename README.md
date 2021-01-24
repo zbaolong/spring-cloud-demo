@@ -1,7 +1,7 @@
 # spring-cloud-demo
-# @Author : zhangbaolong
-# @Email : 292022420@qq.com
-# @Project : springcloud_demo
+# Author : zhangbaolong
+# Email : 292022420@qq.com
+# Project : springcloud_demo
 
 项目介绍：
 
